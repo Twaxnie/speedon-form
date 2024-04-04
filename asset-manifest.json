@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.c066416d.css",
+    "main.js": "/react-gh-pages/static/js/main.b781e665.js",
+    "static/media/FixelText-Regular.otf": "/react-gh-pages/static/media/FixelText-Regular.79f1d254a7519c2c0136.otf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.c066416d.css.map": "/react-gh-pages/static/css/main.c066416d.css.map",
+    "main.b781e665.js.map": "/react-gh-pages/static/js/main.b781e665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c066416d.css",
+    "static/js/main.b781e665.js"
+  ]
+}
